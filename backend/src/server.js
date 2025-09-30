@@ -20,5 +20,3 @@ connectDB().then(() => {
         console.log("Server started at port 5001");
     });
 })
-
-//mongodb+srv://manavgupta:manavgupta@cluster0.hoxkdcd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
